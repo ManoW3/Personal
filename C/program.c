@@ -22,5 +22,5 @@ int main() {
         printf("%p\n", &arr[i]);
     printf("%lf\n", *arr);
 
-    printf("%d", add(BUFFER, 2));
+    printf("%d\n", add(BUFFER, 2));
 }
